@@ -9,6 +9,6 @@ Before running this project, make sure MongoDb instance is running in your machi
 
 # Run the below CMD to run the frontend for this server
 
-### `git clone git@github.com:upex/react-with-lyrical-graphql.git`
+### `git clone git@github.com:upex/react-with-auth-graphql.git`
 
 Cheers!!
